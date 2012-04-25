@@ -1,2 +1,4 @@
-./gen/com/
+./gen/*
 ./bin/
+./bin/*
+/bin
